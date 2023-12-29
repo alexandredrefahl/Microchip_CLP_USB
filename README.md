@@ -6,7 +6,10 @@ Firmware for Microchip CLP Board USB Controled based on Microcontroler PIC 18F24
 
 ## Hardware
 
-A board with 8 opto-coupled relays and a usb communication module (HID).
+A board with 8 opto-coupled relays, 14 Digital inputs, 2 analog inputs, serial communication module, and a usb communication module (HID).
+
+![image](https://github.com/alexandredrefahl/Microchip_CLP_USB/assets/24326296/7bba2dae-f692-4e44-85e5-e4c2944b9a73)
+
 
 ## Software
 
