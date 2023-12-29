@@ -1,4 +1,4 @@
-# Microchip CLP USB Controled
+# Microchip CLP USB Controled (2012)
 
 Firmware for Microchip CLP Board USB Controled based on Microcontroler PIC 18F2455.
 
